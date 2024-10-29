@@ -1,0 +1,24 @@
+[submodule "lab-01"]
+	path = lab-01
+	url = git@github.com:pwr-ai-pgm/l01-piotrdurniat.git
+[submodule "lab-02"]
+	path = lab-02
+	url = git@github.com:pwr-ai-pgm/l02-piotrdurniat.git
+[submodule "lab-03"]
+	path = lab-03
+	url = git@github.com:pwr-ai-pgm/l03-piotrdurniat.git
+[submodule "lab-04"]
+	path = lab-04
+	url = git@github.com:pwr-ai-pgm/l04-piotrdurniat.git
+[submodule "lab-05"]
+	path = lab-05
+	url = git@github.com:pwr-ai-pgm/l05-piotrdurniat.git
+[submodule "lab-06"]
+	path = lab-06
+	url = git@github.com:pwr-ai-pgm/l06-piotrdurniat.git
+[submodule "lab-07"]
+	path = lab-07
+	url = git@github.com:pwr-ai-pgm/l07-piotrdurniat.git
+[submodule "lab-08"]
+	path = lab-08
+	url = git@github.com:pwr-ai-pgm/l08-piotrdurniat.git
