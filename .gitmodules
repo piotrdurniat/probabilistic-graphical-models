@@ -1,9 +1,9 @@
 [submodule "lab-01"]
 	path = lab-01
-	url = git@github.com:pwr-ai-pgm/l01-piotrdurniat.git
+	url = git@github.com:piotrdurniat/pgm-l01-probability-theory.git
 [submodule "lab-02"]
 	path = lab-02
-	url = git@github.com:pwr-ai-pgm/l02-piotrdurniat.git
+	url = github.com:piotrdurniat/pgm-l02-mle-map.git
 [submodule "lab-03"]
 	path = lab-03
 	url = git@github.com:pwr-ai-pgm/l03-piotrdurniat.git
