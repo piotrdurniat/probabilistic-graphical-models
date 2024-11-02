@@ -3,22 +3,22 @@
 	url = git@github.com:piotrdurniat/pgm-l01-probability-theory.git
 [submodule "lab-02"]
 	path = lab-02
-	url = github.com:piotrdurniat/pgm-l02-mle-map.git
+	url = git@github.com:piotrdurniat/pgm-l02-mle-map.git
 [submodule "lab-03"]
 	path = lab-03
-	url = git@github.com:pwr-ai-pgm/l03-piotrdurniat.git
+	url = git@github.com:piotrdurniat/pgm-l03-mixture-models.git 
 [submodule "lab-04"]
 	path = lab-04
-	url = git@github.com:pwr-ai-pgm/l04-piotrdurniat.git
+	url =  git@github.com:piotrdurniat/pgm-l04-d-separation-naive-bayes.git
 [submodule "lab-05"]
 	path = lab-05
-	url = git@github.com:pwr-ai-pgm/l05-piotrdurniat.git
+	url = git@github.com:piotrdurniat/pgm-l05-hidden-markov-models.git
 [submodule "lab-06"]
 	path = lab-06
-	url = git@github.com:pwr-ai-pgm/l06-piotrdurniat.git
+	url = git@github.com:piotrdurniat/pgm-l06-conditional-random-fields.git
 [submodule "lab-07"]
 	path = lab-07
-	url = git@github.com:pwr-ai-pgm/l07-piotrdurniat.git
+	url = git@github.com:piotrdurniat/pgm-l07-bayesian-neural-networks.git
 [submodule "lab-08"]
 	path = lab-08
-	url = git@github.com:pwr-ai-pgm/l08-piotrdurniat.git
+	url = git@github.com:piotrdurniat/pgm-l08-variational-autoencoders.git
